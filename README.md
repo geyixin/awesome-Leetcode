@@ -1,6 +1,6 @@
 # :hammer: awesome-Leetcode
- Realize leetcode with C++ IN Sort style.
- 重新系统的刷Leetcode，这次分类刷，同时由简到难。
+ - Realize leetcode with C++ IN Sort style.
+ - 二刷Leetcode，这次分类刷，同时由简到难。
 
-# Stack
+# [Stack](https://github.com/geyixin/awesome-Leetcode/tree/master/stack)
 ## esay
