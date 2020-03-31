@@ -6,7 +6,8 @@
 
 using namespace std;
 
-/* 超时版本。。。
+/*
+// 因为Leetcode表明这是stack的题目，我就试着用stack，可结果超时，，，
 class Solution {
 public:
     string removeDuplicates(string S) {
