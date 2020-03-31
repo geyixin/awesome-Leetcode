@@ -1,3 +1,10 @@
+/*
+ * @Author: your name
+ * @Date: 2020-03-31 12:46:00
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: /stack/1047-remove-all-adjacent-duplications-in-string.cpp
+ */
 
 
 #include <iostream>
