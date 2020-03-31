@@ -40,7 +40,6 @@ public:
         return res;
     }
 private:
-    int t;
     stack<int> s;
 };
 
