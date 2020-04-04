@@ -27,7 +27,7 @@
 - [8-string-to-integer-atoi.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/Finite-Automaton/8-string-to-integer-atoi.cpp)
 
 # [Tree](https://github.com/geyixin/awesome-Leetcode/tree/master/tree)
-- easy
+## easy
 - [226-invert-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/226-invert-binary-tree.cpp)
 - [589-n-ary-tree-preorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/589-n-ary-tree-preorder-traversal.cpp)
 - [590-n-ary-tree-postorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/590-n-ary-tree-postorder-traversal.cpp)
