@@ -23,6 +23,17 @@
 - [1021-remove-outermost-parentheses.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/1021-remove-outermost-parentheses.cpp)
 - [1047-remove-all-adjacent-duplications-in-string.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/1047-remove-all-adjacent-duplications-in-string.cpp)
 
+# [Finite Automaton 状态机](https://github.com/geyixin/awesome-Leetcode/tree/master/Finite-Automaton)
+- [8-string-to-integer-atoi.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/Finite-Automaton/8-string-to-integer-atoi.cpp)
+
+# [Tree](https://github.com/geyixin/awesome-Leetcode/tree/master/tree)
+- easy
+- [226-invert-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/226-invert-binary-tree.cpp)
+- [589-n-ary-tree-preorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/589-n-ary-tree-preorder-traversal.cpp)
+- [590-n-ary-tree-postorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/590-n-ary-tree-postorder-traversal.cpp)
+- [617-merge-two-binary-trees.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/617-merge-two-binary-trees.cpp)
+- [700-search-in-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/700-search-in-a-binary-search-tree.cpp)
+- [938-range-sum-of-bst.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/938-range-sum-of-bst.cpp)
 
 
 
