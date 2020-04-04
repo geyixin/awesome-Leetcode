@@ -11,7 +11,7 @@
  - 二刷Leetcode，这次分类刷，同时由简到难。
 
 # [Stack](https://github.com/geyixin/awesome-Leetcode/tree/master/stack)
-- easy
+- ------easy-----------
 - [20-valid-parentthess.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/20-valid-parentthess.cpp)
 - [155-min-stack.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/155-min-stack.cpp)
 - [225-implement-stack-using-queues.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/225-implement-stack-using-queues.cpp)
