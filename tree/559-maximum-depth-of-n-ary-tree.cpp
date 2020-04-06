@@ -2,7 +2,7 @@
  * @Author: Eashin
  * @Date: 2020-04-06 16:46:10
  * @LastEditors: Eashin
- * @LastEditTime: 2020-04-06 20:21:15
+ * @LastEditTime: 2020-04-06 20:45:29
  * @Description: 
  * @FilePath: /tree/559-maximum-depth-of-n-ary-tree.cpp
  */
@@ -36,7 +36,7 @@ public:
     // 递归：maxDepth
     int maxDepth(Node* root) {
         if (!root) return 0;
-        else if (root->children.empty()) return = 1;
+        else if (root->children.empty()) return 1;
         else {
             vector<int> v;
             for (auto item : root->children) {
