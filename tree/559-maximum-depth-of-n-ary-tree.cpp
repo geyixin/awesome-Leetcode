@@ -2,13 +2,14 @@
  * @Author: Eashin
  * @Date: 2020-04-06 16:46:10
  * @LastEditors: Eashin
- * @LastEditTime: 2020-04-06 20:08:46
+ * @LastEditTime: 2020-04-06 20:21:15
  * @Description: 
  * @FilePath: /tree/559-maximum-depth-of-n-ary-tree.cpp
  */
 
 #include <iostream>
 #include <vector>
+#include <queue>
 
 using namespace std;
 
@@ -47,6 +48,22 @@ public:
 
     // 迭代：maxDepth_2
     int maxDepth_2(Node* root) {
-        
+        if (!root) return 0;
+        queue<Node*> q;
+        q.push(root);
+        int i = 0;
+        int res = 0;
+        while (!q.empty())
+        {
+            i = q.size();
+            res ++;
+            while (i--) {
+                Node* node = q.front(); q.pop();
+                for (auto item : node->children) {
+                    q.push(item);
+                }
+            }
+        }
+        return res;
     }
 };
