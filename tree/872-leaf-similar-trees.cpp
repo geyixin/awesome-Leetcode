@@ -48,6 +48,5 @@ public:
             if (node->left) s.push(root->left);
             if (node->right) s.push(root->right);
         }
-        return ;
     }
 };
