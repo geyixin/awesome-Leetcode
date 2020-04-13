@@ -2,7 +2,7 @@
  * @Author: Eashin
  * @Date: 2020-04-13 17:03:03
  * @LastEditors: Eashin
- * @LastEditTime: 2020-04-13 21:13:44
+ * @LastEditTime: 2020-04-13 21:18:17
  * @Description: 
  * @FilePath: /tree/472-path-sum-iii.cpp
  */
@@ -50,9 +50,10 @@ public:
         if (!root) return 0;
         int res = 0;
         if (root->val == sum) res++;
+        // 计算以root为起点、满足条件的路径数
         res += helper_2(root->left,sum-root->val);
         res += helper_2(root->right,sum-root->val);
-
+        // 计算以root左右支为起点满足的情况
         res += pathSum_2(root->left,sum);
         res += pathSum_2(root->right,sum);
         return res;
