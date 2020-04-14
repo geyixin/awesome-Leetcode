@@ -2,7 +2,7 @@
  * @Author: Eashin
  * @Date: 2020-04-09 10:23:40
  * @LastEditors: Eashin
- * @LastEditTime: 2020-04-09 15:20:28
+ * @LastEditTime: 2020-04-14 12:29:25
  * @Description: 
  * @FilePath: /tree/872-leaf-similar-trees.cpp
  */
@@ -38,15 +38,15 @@ public:
         if (root->right) helper(root->right,v);
     }
 
-    // 迭代【一直提示超时，没搞清问题出在哪儿。有缘人看见帮忙解释下，不甚感激！】
+    // 迭代
     void helper_2(TreeNode* root, vector<int>& v) {
         stack<TreeNode*> s;
         s.push(root);
         while (!s.empty()) {
             TreeNode* node = s.top(); s.pop();
             if (!node->left && !node->right) v.push_back(node->val);
-            if (node->left) s.push(root->left);
-            if (node->right) s.push(root->right);
+            if (node->left) s.push(node->left);
+            if (node->right) s.push(node->right);
         }
     }
 };
