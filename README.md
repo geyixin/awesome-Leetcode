@@ -11,7 +11,7 @@
  - 二刷Leetcode，这次分类刷，同时由简到难。
 
 # [Stack](https://github.com/geyixin/awesome-Leetcode/tree/master/stack)
-## 简单
+## 简单【10道】
 - [20-valid-parentthess.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/20-valid-parentthess.cpp)
 - [155-min-stack.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/155-min-stack.cpp)
 - [225-implement-stack-using-queues.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/225-implement-stack-using-queues.cpp)
@@ -23,12 +23,12 @@
 - [1021-remove-outermost-parentheses.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/1021-remove-outermost-parentheses.cpp)
 - [1047-remove-all-adjacent-duplications-in-string.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/stack/1047-remove-all-adjacent-duplications-in-string.cpp)
 
-## 中等
+## 中等【 1 道】
 # [Finite Automaton 状态机](https://github.com/geyixin/awesome-Leetcode/tree/master/Finite-Automaton)
 - [8-string-to-integer-atoi.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/Finite-Automaton/8-string-to-integer-atoi.cpp)
 
 # [Tree](https://github.com/geyixin/awesome-Leetcode/tree/master/tree)
-## 简单
+## 简单【 28 道】
 - [100-same-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/100-same-tree.cpp)
 - [104-maximum-depth-of-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/104-maximum-depth-of-binary-tree.cpp)
 - [107-binary-tree-level-order-traversal-ii.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/107-binary-tree-level-order-traversal-ii.cpp)
@@ -58,14 +58,15 @@
 - [993-cousins-in-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/993-cousins-in-binary-tree.cpp)
 - [1022-sum-of-root-to-leaf-binary-numbers.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/1022-sum-of-root-to-leaf-binary-numbers.cpp)
 
-## 中等
+## 中等【 1 道】
 
 - [144-binary-tree-preorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/144-binary-tree-preorder-traversal.cpp)
 
-## 困难
+## 困难【 1 道】
 
 - [145-binary-tree-postorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/145-binary-tree-postorder-traversal.cpp)
 
 
 ---
+【共计：41道】
 KEEP LOADING...
