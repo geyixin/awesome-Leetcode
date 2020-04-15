@@ -50,10 +50,12 @@
 - [653-two-sum-iv-input-is-a-bst.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/653-two-sum-iv-input-is-a-bst.cpp)
 - [669-trim-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/669-trim-a-binary-search-tree.cpp)
 - [700-search-in-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/700-search-in-a-binary-search-tree.cpp)
+- [783-minimum-distance-between-bst-nodes.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/783-minimum-distance-between-bst-nodes.cpp)
 - [872-leaf-similar-trees.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/872-leaf-similar-trees.cpp)
 - [897-increasing-order-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/897-increasing-order-search-tree.cpp)
 - [938-range-sum-of-bst.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/938-range-sum-of-bst.cpp)
 - [965-univalued-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/965-univalued-binary-tree.cpp)
+- [993-cousins-in-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/993-cousins-in-binary-tree.cpp)
 - [1022-sum-of-root-to-leaf-binary-numbers.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/1022-sum-of-root-to-leaf-binary-numbers.cpp)
 
 ## 中等
