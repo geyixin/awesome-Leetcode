@@ -8,4 +8,4 @@
  */
 
 
-// 跟 530 一样。
+// 跟 530 一样。 https://github.com/geyixin/awesome-Leetcode/blob/master/tree/530-minimum-absolute-difference-in-bst.cpp
