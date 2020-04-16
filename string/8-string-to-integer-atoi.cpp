@@ -1,9 +1,9 @@
 /*
  * @Author: Eashin
  * @Date: 2020-04-03 23:26:05
- * @LastEditors: Please set LastEditors
+ * @LastEditors: Eashin
  * @Description: In User Settings Edit
- * @FilePath: /Finite-Automaton/8-string-to-integer-atoi.cpp
+ * @FilePath: /tree/Users/gyx/Projects/C++Projects/awesome-Leetcode/string/8-string-to-integer-atoi.cpp
  */
 
 #include <iostream>
