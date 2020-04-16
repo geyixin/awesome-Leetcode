@@ -10,7 +10,7 @@
  - Realize leetcode with C++ IN Sort style.
  - 二刷Leetcode，这次分类刷，同时由简到难。
 
-[string](#string 中等【 1 道】)
+[String]("string 中等【 1 道")
 
 # [String](https://github.com/geyixin/awesome-Leetcode/tree/master/string)
 
