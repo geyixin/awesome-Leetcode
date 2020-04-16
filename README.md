@@ -12,7 +12,7 @@
 
 ---
 - [string](#String)
-- [stack[(#Stack)
+- [stack](#Stack)
 - [tree](#Tree)
 ---
 # [String](https://github.com/geyixin/awesome-Leetcode/tree/master/string)
