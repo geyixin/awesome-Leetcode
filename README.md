@@ -35,7 +35,7 @@
 
 
 # [Tree](https://github.com/geyixin/awesome-Leetcode/tree/master/tree)
-## tree 简单【 31 道】
+## tree 简单【 34 道】
 - [100-same-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/100-same-tree.cpp)
 - [101-symmetric-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/101-symmetric-tree.cpp)
 - [104-maximum-depth-of-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/104-maximum-depth-of-binary-tree.cpp)
@@ -47,11 +47,13 @@
 - [257-binary-tree-paths.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/257-binary-tree-paths.cpp)
 - [404-sum-of-left-leaves.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/404-sum-of-left-leaves.cpp)
 - [472-path-sum-iii.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/472-path-sum-iii.cpp)
+- [501-find-mode-in-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/501-find-mode-in-binary-search-tree.cpp)
 - [530-minimum-absolute-difference-in-bst.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/530-minimum-absolute-difference-in-bst.cpp)
 - [538-convert-bst-to-greater-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/538-convert-bst-to-greater-tree.cpp)
 - [543-diameter-of-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/543-diameter-of-binary-tree.cpp)
 - [559-maximum-depth-of-n-ary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/559-maximum-depth-of-n-ary-tree.cpp)
 - [563-binary-tree-tilt.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/563-binary-tree-tilt.cpp)
+- [572-subtree-of-another-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/572-subtree-of-another-tree.cpp)
 - [589-n-ary-tree-preorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/589-n-ary-tree-preorder-traversal.cpp)
 - [590-n-ary-tree-postorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/590-n-ary-tree-postorder-traversal.cpp)
 - [606-construct-string-from-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/606-construct-string-from-binary-tree.cpp)
@@ -59,6 +61,7 @@
 - [637-average-of-levels-in-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/637-average-of-levels-in-binary-tree.cpp)
 - [653-two-sum-iv-input-is-a-bst.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/653-two-sum-iv-input-is-a-bst.cpp)
 - [669-trim-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/669-trim-a-binary-search-tree.cpp)
+- [671-second-minimum-node-in-a-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/671-second-minimum-node-in-a-binary-tree.cpp)
 - [700-search-in-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/700-search-in-a-binary-search-tree.cpp)
 - [783-minimum-distance-between-bst-nodes.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/783-minimum-distance-between-bst-nodes.cpp)
 - [872-leaf-similar-trees.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/872-leaf-similar-trees.cpp)
@@ -78,5 +81,5 @@
 
 
 ---
-【共计：44道】
+【共计：47道】
 KEEP LOADING...
