@@ -35,12 +35,13 @@
 
 
 # [Tree](https://github.com/geyixin/awesome-Leetcode/tree/master/tree)
-## tree 简单【 34 道】
+## tree 简单【 36 道】
 - [100-same-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/100-same-tree.cpp)
 - [101-symmetric-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/101-symmetric-tree.cpp)
 - [104-maximum-depth-of-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/104-maximum-depth-of-binary-tree.cpp)
 - [107-binary-tree-level-order-traversal-ii.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/107-binary-tree-level-order-traversal-ii.cpp)
 - [108-convert-sorted-array-to-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/108-convert-sorted-array-to-binary-search-tree.cpp)
+- [111-minimum-depth-of-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/111-minimum-depth-of-binary-tree.cpp)
 - [112-path-sum.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/112-path-sum.cpp)
 - [226-invert-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/226-invert-binary-tree.cpp)
 - [235-lowest-common-ancestor-of-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/235-lowest-common-ancestor-of-a-binary-search-tree.cpp)
@@ -62,6 +63,7 @@
 - [653-two-sum-iv-input-is-a-bst.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/653-two-sum-iv-input-is-a-bst.cpp)
 - [669-trim-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/669-trim-a-binary-search-tree.cpp)
 - [671-second-minimum-node-in-a-binary-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/671-second-minimum-node-in-a-binary-tree.cpp)
+- [687-longest-univalue-path.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/687-longest-univalue-path.cpp)
 - [700-search-in-a-binary-search-tree.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/700-search-in-a-binary-search-tree.cpp)
 - [783-minimum-distance-between-bst-nodes.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/783-minimum-distance-between-bst-nodes.cpp)
 - [872-leaf-similar-trees.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/872-leaf-similar-trees.cpp)
@@ -81,5 +83,5 @@
 
 
 ---
-【共计：47道】
+【共计：49道】
 KEEP LOADING...
