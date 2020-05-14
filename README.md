@@ -14,6 +14,7 @@
 - [string](#String)
 - [stack](#Stack)
 - [tree](#Tree)
+- [greedy](#Greedy)
 ---
 # [String](https://github.com/geyixin/awesome-Leetcode/tree/master/string)
 
@@ -81,7 +82,11 @@
 
 - [145-binary-tree-postorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/145-binary-tree-postorder-traversal.cpp)
 
+# [Greedy](https://github.com/geyixin/awesome-Leetcode/tree/master/greedy)
+## greedy 简单【 1 道】
+- [1221-split-a-string-in-balanced-strings.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1221-split-a-string-in-balanced-strings.cpp)
+
 
 ---
-【共计：49道】
+
 KEEP LOADING...
