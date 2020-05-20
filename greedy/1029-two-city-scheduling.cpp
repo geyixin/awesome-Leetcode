@@ -2,7 +2,7 @@
  * @Author: Eashin
  * @Date: 2020-05-20 22:19:00
  * @LastEditors: Eashin
- * @LastEditTime: 2020-05-20 23:50:10
+ * @LastEditTime: 2020-05-20 23:51:11
  * @Description: 
  * @FilePath: /greedy/1029-two-city-scheduling.cpp
  */ 
@@ -15,7 +15,7 @@ using namespace std;
 
 class Solution {
 public:
-    // 自己错误版本。错在在dif最小的时候，不一定需要调整飞行地。
+    // 自己错误版本。因为在dif中元素最小的时候，不一定对应需调整的数字。
     int twoCitySchedCost_fail(vector< vector<int> >& costs) {
         vector<int> cost;
         vector<int> dif; int tmp = 0;
