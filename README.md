@@ -83,7 +83,17 @@
 - [145-binary-tree-postorder-traversal.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/tree/145-binary-tree-postorder-traversal.cpp)
 
 # [Greedy](https://github.com/geyixin/awesome-Leetcode/tree/master/greedy)
-## greedy 简单【 1 道】
+## greedy 简单【 11 道】
+- [122-best-time-to-buy-and-sell-stock-ii.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/122-best-time-to-buy-and-sell-stock-ii.cpp)
+- [392-is-subsequence.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/392-is-subsequence.cpp)
+- [455-assign-cookies.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/455-assign-cookies.cpp)
+- [860-lemonade-change.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/860-lemonade-change.cpp)
+- [874-mo-ni-xing-zou-ji-qi-ren-by-leetcode.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/874-mo-ni-xing-zou-ji-qi-ren-by-leetcode.cpp)
+- [1005-maximize-sum-of-array-after-k-negations.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1005-maximize-sum-of-array-after-k-negations.cpp)
+- [1029-two-city-scheduling.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1029-two-city-scheduling.cpp)
+- [1043-minimum-subsequence-in-non-increasing-order.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1043-minimum-subsequence-in-non-increasing-order.cpp)
+- [1046-last-stone-weight.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1046-last-stone-weight.cpp)
+- [1217-play-with-chips.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1217-play-with-chips.cpp)
 - [1221-split-a-string-in-balanced-strings.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1221-split-a-string-in-balanced-strings.cpp)
 
 
