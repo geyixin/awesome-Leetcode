@@ -88,7 +88,7 @@
 - [392-is-subsequence.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/392-is-subsequence.cpp)
 - [455-assign-cookies.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/455-assign-cookies.cpp)
 - [860-lemonade-change.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/860-lemonade-change.cpp)
-- [874-mo-ni-xing-zou-ji-qi-ren-by-leetcode.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/874-mo-ni-xing-zou-ji-qi-ren-by-leetcode.cpp)
+- [874-mo-ni-xing-zou-ji-qi-ren-by-leetcode.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/874-mo-ni-xing-zou-ji-qi-ren-by-leetcode.cpp) :electric_plug:
 - [1005-maximize-sum-of-array-after-k-negations.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1005-maximize-sum-of-array-after-k-negations.cpp)
 - [1029-two-city-scheduling.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1029-two-city-scheduling.cpp)
 - [1043-minimum-subsequence-in-non-increasing-order.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/greedy/1043-minimum-subsequence-in-non-increasing-order.cpp)
