@@ -2,7 +2,7 @@
  * @Author: Eashin
  * @Date: 2020-05-25 19:43:47
  * @LastEditors: Eashin
- * @LastEditTime: 2020-05-25 20:43:17
+ * @LastEditTime: 2020-05-25 21:01:17
  * @Description: 
  * @FilePath: /dynamic-programming/1025-divisor-game.cpp
  */ 
