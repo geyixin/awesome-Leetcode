@@ -99,13 +99,13 @@
 
 # [Dp](https://github.com/geyixin/awesome-Leetcode/tree/master/dynamic-programming)
 ## dp 简单【 8 道】
-- [53-maximum-subarray.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/53-maximum-subarray.cpp)
+- [53-maximum-subarray.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/53-maximum-subarray.cpp) 
 - [70-climbing-stairs.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/70-climbing-stairs.cpp)
 - [121-best-time-to-buy-and-sell-stock.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/121-best-time-to-buy-and-sell-stock.cpp)
 - [198-house-robber.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/198-house-robber.cpp)
 - [303-range-sum-query-immutable.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/303-range-sum-query-immutable.cpp)
 - [392-is-subsequence.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/392-is-subsequence.cpp)
-- [746-min-cost-climbing-stairs.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/746-min-cost-climbing-stairs.cpp)
+- [746-min-cost-climbing-stairs.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/746-min-cost-climbing-stairs.cpp) :electric_plug:
 - [1025-divisor-game.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/dynamic-programming/1025-divisor-game.cpp)
 
 ---
