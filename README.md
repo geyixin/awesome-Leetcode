@@ -111,7 +111,7 @@
 
 # [Recursion](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion)
 ## recursion 简单【 5 道】
-- [687-longest-univalue-path.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/687-longest-univalue-path.cpp)
+- [687-longest-univalue-path.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/687-longest-univalue-path.cpp) :electric_plug:
 - [783-minimum-distance-between-bst-nodes.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/783-minimum-distance-between-bst-nodes.cpp)
 - [938-range-sum-of-bst.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/938-range-sum-of-bst.cpp)
 - [1137-n-th-tribonacci-number.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/1137-n-th-tribonacci-number.cpp)
