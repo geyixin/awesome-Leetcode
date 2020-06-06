@@ -122,7 +122,7 @@
 ## heap 简单 【 3 道】
 - [703-kth-largest-element-in-a-stream.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/703-kth-largest-element-in-a-stream.cpp) :electric_plug:
 - [1046-last-stone-weight.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/1046-last-stone-weight.cpp)
-- [zui-xiao-de-kge-shu-lcof.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/zui-xiao-de-kge-shu-lcof.cpp)
+- [zui-xiao-de-kge-shu-lcof.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/interview-zui-xiao-de-kge-shu-lcof.cpp)
 ---
 
 KEEP LOADING...
