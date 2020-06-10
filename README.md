@@ -17,6 +17,7 @@
 - [greedy](#Greedy)
 - [dp](#Dp) 
 - [recursion](#Recursion)
+- [heap](#Heap)
 ---
 # [String](https://github.com/geyixin/awesome-Leetcode/tree/master/string)
 
@@ -117,6 +118,11 @@
 - [1137-n-th-tribonacci-number.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/1137-n-th-tribonacci-number.cpp)
 - [hanota-lcci.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/recursion/interview-hanota-lcci.cpp)
 
+# [Heap](https://github.com/geyixin/awesome-Leetcode/tree/master/heap)
+## heap 简单 【 3 道】
+- [703-kth-largest-element-in-a-stream.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/703-kth-largest-element-in-a-stream.cpp) :electric_plug:
+- [1046-last-stone-weight.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/1046-last-stone-weight.cpp)
+- [zui-xiao-de-kge-shu-lcof.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/interview-zui-xiao-de-kge-shu-lcof.cpp)
 ---
 
 KEEP LOADING...
