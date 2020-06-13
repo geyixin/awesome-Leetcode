@@ -18,6 +18,7 @@
 - [dp](#Dp) 
 - [recursion](#Recursion)
 - [heap](#Heap)
+- [sort](#Sort)
 ---
 # [String](https://github.com/geyixin/awesome-Leetcode/tree/master/string)
 
@@ -123,6 +124,19 @@
 - [703-kth-largest-element-in-a-stream.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/703-kth-largest-element-in-a-stream.cpp) :electric_plug:
 - [1046-last-stone-weight.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/1046-last-stone-weight.cpp)
 - [zui-xiao-de-kge-shu-lcof.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/heap/interview-zui-xiao-de-kge-shu-lcof.cpp)
+
+# [Sort](https://github.com/geyixin/awesome-Leetcode/tree/master/sort)
+## sort 简单 【10 道】
+- [242-valid-anagram.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/242-valid-anagram.cpp)
+- [349-intersection-of-two-arrays.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/349-intersection-of-two-arrays.cpp)
+- [350-intersection-of-two-arrays-ii.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/350-intersection-of-two-arrays-ii.cpp)
+- [922-sort-array-by-parity-ii.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/922-sort-array-by-parity-ii.cpp)
+- [976-largest-perimeter-triangle.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/976-largest-perimeter-triangle.cpp)
+- [1030-matrix-cells-in-distance-order.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1030-matrix-cells-in-distance-order.cpp)
+- [1122-relative-sort-array.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1122-relative-sort-array.cpp)
+- [1356-sort-integers-by-the-number-of-1-bits.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1356-sort-integers-by-the-number-of-1-bits.cpp)
+- [1370-increasing-decreasing-string.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1370-increasing-decreasing-string.cpp)
+- [1403-minimum-subsequence-in-non-increasing-order.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1403-minimum-subsequence-in-non-increasing-order.cpp)
 ---
 
 KEEP LOADING...
