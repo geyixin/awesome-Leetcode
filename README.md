@@ -12,13 +12,14 @@
 
 ---
 - [string 字符串](#String)
-- [stack](#Stack)
-- [tree](#Tree)
-- [greedy](#Greedy)
-- [dp](#Dp) 
-- [recursion](#Recursion)
-- [heap](#Heap)
-- [sort](#Sort)
+- [stack 栈](#Stack)
+- [tree 树](#Tree)
+- [greedy 贪心算法](#Greedy)
+- [dp 动态规划](#Dp) 
+- [recursion 递归](#Recursion)
+- [heap 堆](#Heap)
+- [sort 排序](#Sort)
+- [backtrack 回溯](#BackTrack)
 ---
 # [String](https://github.com/geyixin/awesome-Leetcode/tree/master/string)
 
@@ -137,6 +138,12 @@
 - [1356-sort-integers-by-the-number-of-1-bits.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1356-sort-integers-by-the-number-of-1-bits.cpp)
 - [1370-increasing-decreasing-string.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1370-increasing-decreasing-string.cpp)
 - [1403-minimum-subsequence-in-non-increasing-order.cpp](https://github.com/geyixin/awesome-Leetcode/blob/master/sort/1403-minimum-subsequence-in-non-increasing-order.cpp)
+
+# [BackTrack](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking)
+
+## backtrack 简单 【2 道】
+- [401-binary-watch.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking/401-binary-watch.cpp)
+- [784-letter-case-permutation.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking/784-letter-case-permutation.cpp)
 ---
 
 KEEP LOADING...
