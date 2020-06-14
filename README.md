@@ -11,7 +11,7 @@
  - 二刷Leetcode，这次分类刷，同时由简到难。
 
 ---
-- [string](#String)
+- [string 字符串](#String)
 - [stack](#Stack)
 - [tree](#Tree)
 - [greedy](#Greedy)
