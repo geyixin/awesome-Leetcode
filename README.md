@@ -142,7 +142,7 @@
 # [BackTrack](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking)
 
 ## backtrack 简单 【2 道】
-- [401-binary-watch.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking/401-binary-watch.cpp)
+- [401-binary-watch.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking/401-binary-watch.cpp) :electric_plug:
 - [784-letter-case-permutation.cpp](https://github.com/geyixin/awesome-Leetcode/tree/master/backtracking/784-letter-case-permutation.cpp)
 ---
 
