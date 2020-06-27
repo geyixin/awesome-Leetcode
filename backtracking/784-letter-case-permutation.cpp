@@ -2,9 +2,9 @@
  * @Author: Eashin
  * @Date: 2020-06-14 22:19:49
  * @LastEditors: Eashin
- * @LastEditTime: 2020-06-14 23:05:25
+ * @LastEditTime: 2020-06-27 21:57:58
  * @Description: 
- * @FilePath: /backtracking/784-letter-case-permutation.cpp
+ * @FilePath: /undefined/Users/gyx/Projects/C++Projects/awesome-Leetcode/backtracking/784-letter-case-permutation.cpp
  */ 
 
 #include <iostream>
@@ -36,7 +36,7 @@ public:
 
 // 非递归【牛人版本。思路不错】
     vector<string> letterCasePermutation_2(string S) {
-        vector<string> ans{S};  // S="a1b2", ans = {"asb2"}
+        vector<string> ans{S};  // S="a1b2", ans = {"a1b2"}
         for(int i = 0; i < S.size(); i++){
             if(isalpha(S[i])){
                 for(int j = ans.size() - 1; j >= 0; j--){   // key
